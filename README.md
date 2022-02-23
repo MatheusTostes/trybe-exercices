@@ -14,7 +14,7 @@ See our curriculum details and associated training projects:
 ##### Block 1: Introduction - Unix & Shell
 ##### Block 2: Git, GitHub, Internet
 ##### Block 3: Introduction - HTML & CSS
-- [ ] *[Project - HTML & CSS](https://juliettebeaudet.github.io/CV/)*
+- [ ] *[Project - HTML & CSS]()*
 
 <br><br><br>
 *Acknowledgment to Trybe student [Debora Silveira](https://github.com/deboracosilveira) for offering this readme standard md.*
