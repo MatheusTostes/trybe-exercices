@@ -1,6 +1,6 @@
 # All Trybe School Activities
 
-This repository contains two folders and a readme, all created while studying at [Trybe](https://www.betrybe.com/). <br>
+This repository contains all contents created while studying at [Trybe](https://www.betrybe.com/). <br>
 The *course-summaries* folder contains home-made compiled lessons, so they can be consulted by peer students. <br>
 The *exercises* folder displays some of the initial developed learning activities.<br>
 Finally, the present readme displays all the *delivered projects*.
