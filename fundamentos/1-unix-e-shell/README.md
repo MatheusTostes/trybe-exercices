@@ -26,3 +26,6 @@ Commands:
 - kill
 - wget
 - top
+
+Além do operador:
+- |
