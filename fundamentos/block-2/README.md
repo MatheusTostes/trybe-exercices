@@ -2,5 +2,12 @@
 
 Commands:
 - init
+- status
+- add
+- commit -m
+- push -u origin branch
+- pull
+- branch
+- checkout
 
 
