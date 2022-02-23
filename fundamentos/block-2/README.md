@@ -9,5 +9,5 @@ Commands:
 - pull
 - branch
 - checkout
-
+- clone
 
