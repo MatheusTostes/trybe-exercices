@@ -1,8 +1,0 @@
-Bash
-CSS
-Deploy
-HTML
-Internet
-JS
-Python
-Unix
