@@ -1,4 +1,4 @@
-## We have learned about the unix and some of most common commands.
+## We have learned about the unix history, their structure and some of most common commands.
 
 Commands:
 - ls
