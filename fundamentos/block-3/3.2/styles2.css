@@ -1,0 +1,32 @@
+h1 {
+    text-decoration: underline;
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+    font-size: 16px;
+}
+
+p {
+    font-size: 3em;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 5em;
+}
+
+.modify-bg {
+    background-color: aqua;
+}
+
+.yellow-li {
+    background-color: yellow;
+}
+
+.red-li {
+    background-color: red;
+}
+
+.brown-li {
+    background-color: brown;
+}
