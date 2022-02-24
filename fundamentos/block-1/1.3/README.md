@@ -27,5 +27,5 @@ Commands:
 - wget
 - top
 
-Além do operador:
+and the operator:
 - |
