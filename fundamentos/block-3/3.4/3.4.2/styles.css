@@ -49,3 +49,7 @@ p {
 iframe {
     margin-top: 3em;
 }
+
+caption {
+    display: none;
+}
