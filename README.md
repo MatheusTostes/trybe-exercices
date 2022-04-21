@@ -4,20 +4,20 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :white_check_mark: 
 
-##### Bloco 1: Introduçãoo - Unix & Shell
+##### Bloco 1: Introduçãoo - Unix & Shell :white_check_mark: 
 
 - [x] 1-3: _Unix & Shell- Part 1_
 - [x] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: Git & GitHub :white_check_mark: 
 
 - [x] 2-1: _O que é e para que serve?_
 - [x] 2-2: _Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: IntroduÃ§Ã£o - HTML & CSS
+##### Bloco 3: IntroduÃ§Ã£o - HTML & CSS :white_check_mark: 
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _Projeto - HTML & CSS_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 4: Introdução - JavaScript :white_check_mark: 
 
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
@@ -34,7 +34,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _Projeto - Playground Functions_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: Introdução - JavaScript - Projetos :white_check_mark: 
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -46,7 +46,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-7: _Projeto - Adivinhe a Cor_
 - [x] 5-7: _Projeto - Carta Misteriosa_
 
-##### Bloco 6: HTML & CSS avançado
+##### Bloco 6: HTML & CSS avançado :white_check_mark: 
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -55,14 +55,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [x] 6-6: _Projeto - TrybeWarts_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 7: JavaScript ES6 & Testes Unitários :white_check_mark: 
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
 - [x] 7-4: _Projeto - JavaScript Testes Unitários_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: JavaScript ES6 :white_check_mark: 
 
 - [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
