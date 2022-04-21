@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  body {
+    width: 100%;
+    background-color: rgb(253, 251, 251);
+    font-size: 15px;
+    line-height: 1.3em;
+    font-family: sans-serif;
+  }
+  
+  main , article {
+    width: 100%;
+  }
+  
+  header {
+    width: 100%;
+    background-color: rgb(33, 33, 33);
+    color: 'whitesmoke';
+    position: fixed;
+    top: 0;
+  }
+  
+  img {
+    width: 100px;
+    margin-top: 5em;
+  }
+  
+  ol , ul {
+    margin-left: 2em;
+    width: 30%;
+    display: inline-block;
+  }
+  
+  article p {
+    width: 30%;
+  }
+  
+  .lado-direito p , .lado-esquerdo p {
+    margin-top: 1em;
+    width: 100%;
+  }
+  
+  .lado-direito , .lado-esquerdo {
+    width: 30%;
+    display: inline-block;
+  }
+  
+  table td {
+    border: 1px solid;
+  }
+
+  

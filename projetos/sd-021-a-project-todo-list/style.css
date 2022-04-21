@@ -1,0 +1,7 @@
+html {
+  user-select: none;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}

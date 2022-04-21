@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#color-palette {
+  margin: 1em;
+  display: flex;
+}
+
+.color {
+  width: 2em;
+  height: 2em;
+  border: solid 1px black;
+}
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+#pixel-board {
+  margin: 1em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid black;
+}

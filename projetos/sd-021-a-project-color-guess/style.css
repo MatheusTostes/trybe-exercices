@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(224, 215, 255);
+}
+
+#circles {
+    display: flex;
+    gap: 0.5em;
+}
+
+.ball {
+    /* background-color: aquamarine; */
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
