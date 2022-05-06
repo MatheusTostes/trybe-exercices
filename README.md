@@ -70,11 +70,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [x] 8-5: _Projeto - Zoo functions_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 9: Assincronicidade & Callbacks :white_check_mark: 
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
-- [ ] 9-3: _Projeto - Carrinho de Compras_
+- [x] 9-3: _Projeto - Carrinho de Compras_
 
 ##### Bloco 10: Jest
 
