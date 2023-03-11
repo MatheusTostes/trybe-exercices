@@ -1,6 +1,6 @@
  Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Matheus Tsstes](https://linkedin.com/in/MatheusTostes)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Matheus Tostes](https://linkedin.com/in/MatheusTostes)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -99,14 +99,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 14: Metodologias Ágeis
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _Projeto - Frontend Online Store_
+- [x] 14-1: _Metodologias Ágeis_
+- [x] 14-2: _Projeto - Frontend Online Store_
 
 ##### Bloco 15: Testes em React
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _Projeto - Testes em React_
+- [x] 15-1: _Testando React com a React Testing Library_
+- [x] 15-2: _Testando React com a React Testing Library - Parte 2_
+- [x] 15-3: _Projeto - Testes em React_
 
 ##### Bloco 16: Introdução ao Redux
 
